@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22491" started-at="2021-01-02T03:23:19Z" finished-at="2021-01-02T03:23:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22491" started-at="2021-01-02T03:23:19Z" finished-at="2021-01-02T03:23:41Z">
+      <class name="com.qa.crm.testcases.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.crm.testcases.HomepageTest@649d209a]" name="setUp" is-config="true" duration-ms="21309" started-at="2021-01-02T08:53:19Z" finished-at="2021-01-02T08:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageUserLabelValidationTest()[pri:0, instance:com.qa.crm.testcases.HomepageTest@649d209a]" name="homePageUserLabelValidationTest" duration-ms="320" started-at="2021-01-02T08:53:40Z" finished-at="2021-01-02T08:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageUserLabelValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.crm.testcases.HomepageTest@649d209a]" name="tearDown" is-config="true" duration-ms="837" started-at="2021-01-02T08:53:40Z" finished-at="2021-01-02T08:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.crm.testcases.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
